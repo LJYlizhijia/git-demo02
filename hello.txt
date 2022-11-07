@@ -1,0 +1,21 @@
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+hello git!!!
+/usr/bin/bash: line 1: wq: command not found
